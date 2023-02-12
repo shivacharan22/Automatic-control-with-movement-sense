@@ -21,10 +21,6 @@ Block diagram:
 
 ![image](https://user-images.githubusercontent.com/54499416/151697570-aa1e9b7c-c483-4644-9d58-b71ae728f787.png)
 
-Connections:
-
-![image](https://user-images.githubusercontent.com/54499416/151697694-8b0af3c5-81e0-4aa5-a6ea-fddf123d1b2a.png)
-
 Flow diagrams:
 
 ![image](https://user-images.githubusercontent.com/54499416/151697649-e51df05b-966e-486c-9608-ca74d1d2e7c2.png)
